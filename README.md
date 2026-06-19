@@ -196,47 +196,8 @@ In most cases, **Gradient Boosting Regressor** outperforms Linear Regression bec
 
 ---
 
-## 📂 Project Structure
-
-```text
-House-Price-Prediction/
-│
-├── House Price Prediction Dataset.csv
-├── house_price_prediction.py
-│
-├── task6_eda.png
-├── task6_model_results.png
-├── task6_feature_importance.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
-## ▶️ How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/house-price-prediction.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Project
-
-```bash
-python house_price_prediction.py
-```
-
----
-
-## 📌 Learning Outcomes
+ 
+##  Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -251,7 +212,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Tooba Fatima**
 
